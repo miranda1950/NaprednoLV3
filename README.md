@@ -1,2 +1,2 @@
-# Morao sam obrisati /vendor folder jer je velicina projekta bila cca. 2GB. Pa je potrebno pokrenuti komandu:
-composer install
+# Morao sam promijeniti db port na 3307, jer mi DB nije inače radila 
+
